@@ -1,1 +1,1 @@
-Olá, esse projeto ensina você a usar o Git!
+Olá, estou aprendendo a usar git! Sistema de versionamento. 
